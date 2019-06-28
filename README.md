@@ -16,6 +16,6 @@ MotionDisplays incluye un conjunto único de características integradas:
 
 Esta documentación es el manual de usuario de referencia de MotionDisplays.
 
-?> El personal de Opendatasoft siempre está disponible para ayudar. Puede enviarnos sus comentarios o hacer preguntas contactando con el soporte de MotionDisplays, ya sea presionando el enlace de Soporte en el menú administrativo o enviando un correo electrónico a suporte@motiondisplays.cl
+?> El personal de MotionDisplays siempre está disponible para ayudar. Puede enviarnos sus comentarios o hacer preguntas contactando con el soporte de MotionDisplays, ya sea presionando el enlace de Soporte en el menú administrativo o enviando un correo electrónico a suporte@motiondisplays.cl
 
 
